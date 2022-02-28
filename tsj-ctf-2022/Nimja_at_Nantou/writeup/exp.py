@@ -3,7 +3,7 @@
 import requests
 import socket
 
-# ./exploit.py
+# ./exp.py
 
 host = ""
 port = "5487"
