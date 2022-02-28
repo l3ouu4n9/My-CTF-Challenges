@@ -12,7 +12,7 @@ Tag: Web, CVE, ntopng
 #### Source Code
 * [Source](hackgt8-ctf/N_to_PNG/)
 
-## **Nimja_at_Nantou**
+## **Nimja at Nantou**
 Solved: 42 / 428<br>
 Tag: Web, CVE, Apache Traffic Server, Nim, System Information Library
 
