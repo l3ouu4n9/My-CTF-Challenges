@@ -2,8 +2,8 @@
 
 ## **Table of Content**
 
-* [HackGT 8 CTF](#N_to_PNG)
-* [TSJ CTF 2022](#Nimja_at_Nantou)
+* [HackGT 8 CTF](#N to PNG)
+* [TSJ CTF 2022](#Nimja at Nantou)
 
 ## **N to PNG**
 Solved: 1 / 88<br>
