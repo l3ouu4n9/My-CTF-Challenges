@@ -57,6 +57,8 @@ However, for Node.js, `first_chunk_len + b" \n" + b"x"*len(smuggled_len) + b"\r\
 
 The `HRS` stands for `HTTP Request Smuggling`. Although you don't really need that to solve this challenge, which is pretty unfortunate.
 
+You can try out the updated version with [challenge_updated.zip](../challenge_updated.zip)
+
 Thanks to everyone playing TSJ CTF 2022. I will give out better challenges next year if there is TSJ CTF 2023 XD.
 
 # Reference
